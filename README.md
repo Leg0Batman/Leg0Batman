@@ -1,3 +1,2 @@
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leg0Batman&show_icons=true&theme=radical)
+https://github4life.herokuapp.com/Leg0Batman.gif
  Only getting started give me my time
