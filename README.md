@@ -1,8 +1,8 @@
-# Leg0Batman
+# Tim Suskov
 
 ## 🐍 Snake Game Animation
 
-![Snake animation](https://raw.githubusercontent.com/Leg0Batman/Leg0Batman/main/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Tsuskov/Tsuskov/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
